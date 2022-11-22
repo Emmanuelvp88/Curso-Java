@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Emmanuel Villava
+Main-Class: Bienvenido
+X-COMMENT: Cuso Java
