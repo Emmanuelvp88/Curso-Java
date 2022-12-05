@@ -1,5 +1,5 @@
 
-package video10_modificadorDeAccesoDefault;
+package video11_modificadorDeAccesoDefault;
 
 public class Main {
     
