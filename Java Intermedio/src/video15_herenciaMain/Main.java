@@ -4,15 +4,15 @@ import video15_herenciaFunciones.HijaResta;
 
 public class Main {
     public static void main(String[] args) {
-        HijaSuma intnacia = new HijaSuma();
-        intnacia.PedirDatos();
-        intnacia.Suma();
-        intnacia.Resultado();
+        HijaSuma suma = new HijaSuma();
+        suma.PedirDatos();
+        suma.Suma();
+        suma.Resultado();
         
-        HijaResta instancia = new HijaResta();
-        instancia.PedirDatos();
-        instancia.Resta();
-        instancia.Resultado();
+        HijaResta resta = new HijaResta();
+        resta.PedirDatos();
+        resta.Resta();
+        resta.Resultado();
         
     }
 }
