@@ -16,6 +16,6 @@ public class Padre {
     }
 
     public void Resultado() {
-        System.out.println("el resultado de su opereacion es:" + resultado);
+        System.out.println(resultado);
     }
 }
