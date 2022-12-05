@@ -13,7 +13,7 @@ public class Main{
         int num2 = in.nextInt();
         
         Suma objeto = new Suma(num1, num2);
-        objeto.Operacion();
+        objeto.Operacion();//tenemos que mandar traer al metodo operacion para que funcione
         objeto.Resultado();
         
     }

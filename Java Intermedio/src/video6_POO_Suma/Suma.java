@@ -12,7 +12,7 @@ public class Suma{
         resultado = num1 +num2;
     }
     public void Resultado(){
-        //Operacion();
+        //Operacion(); //Tambien podemos llamar al metodo en el mismo metodo resultado
         System.out.println("El resultado de tu suma es:" + resultado);
     }
 }
