@@ -11,7 +11,7 @@ public class CursoJavaProgrmacionATS {
         // TODO code application logic here
         
         
-        System.out.println("hola mundo");
+        System.out.println("Hola mundo");
     }
     
 }
